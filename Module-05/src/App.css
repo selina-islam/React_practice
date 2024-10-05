@@ -1,0 +1,13 @@
+.Active{
+  background-color: green;
+  color: white;
+  padding: 10x;
+  border-radius: 10px;
+}
+
+.Inactive{
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
